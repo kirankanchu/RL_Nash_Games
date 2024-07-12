@@ -1,5 +1,4 @@
-# RL_Nash_Games
-Reinforcement Learning Policy Iterations for Nash Differential Games
+# Reinforcement Learning Policy Iterations for Nash Differential Games
 
 This repository contains the MATLAB code and associated documentation for the project "Reinforcement Learning Policy Iterations for Nash Differential Games".
 
